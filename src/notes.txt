@@ -1,0 +1,31 @@
+OOPS: Object oriented programming system.
+Polymorphism, Inheritance, Encapsulation, Abstraction.
+In one file only one public class, it's name should be same as filename. can have multiple class.
+class = properties + methods.
+
+Polymorphism (many forms):
+1. Compiled time Polymorphism: same function name with different parameters & return type (optional).
+2. Run time Polymorphism:
+
+static keyword: can use properties without creating the object of it.
+
+this keyword: can call one constructor from another also refer to the object inside a class.
+
+Inheritance: one class inherit properties and methods from their parent class.
+super keyword: call their parent class constructor.
+
+Encapsulation: data hiding for security reasons, done using package & access modifiers.
+
+1. public: available everywhere in the project.
+2. protected: same class, subclass(children - different package but children).
+3. private: same class.
+4. default: same class, same package, subpackage, (but no sibling package)
+
+Abstraction: Hiding the complexity.
+abstract keyword: abstract class can't be used to create object, only for extends.
+abstract inside class, only for defining, no body partial allowed, method need to implement by children.
+
+interface: methods are by default public & abstract.
+
+java didn't allow multiple inheritance: one class can't have multiple immediate parent.
+multi-level inheritance is possible.
