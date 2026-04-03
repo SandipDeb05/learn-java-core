@@ -1,4 +1,4 @@
-package classesAndObjects;
+package oops.classesAndObjects;
 
 public class Main {
     public static void main(String[] args) {

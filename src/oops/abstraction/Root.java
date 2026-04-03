@@ -1,4 +1,4 @@
-package abstraction;
+package oops.abstraction;
 
 public class Root {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ abstract class Car {
     int price;
 
     abstract void start();
-    // not true abstraction
+    // not true oops.abstraction
     void engin() {
         System.out.println("HF engine");
     }

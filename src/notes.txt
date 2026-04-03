@@ -29,3 +29,4 @@ interface: methods are by default public & abstract.
 
 java didn't allow multiple inheritance: one class can't have multiple immediate parent.
 multi-level inheritance is possible.
+------------------------------------------------------------------------------------------------------

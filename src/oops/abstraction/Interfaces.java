@@ -1,4 +1,4 @@
-package abstraction;
+package oops.abstraction;
 
 //public class Interfaces extends Bird implements Animal {
 //    @Override
@@ -36,7 +36,7 @@ public class Interfaces implements Animal {
     }
 }
 
-// pure abstraction
+// pure oops.abstraction
 interface Animal {
     void eats();
 }

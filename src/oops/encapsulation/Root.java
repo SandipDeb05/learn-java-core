@@ -1,4 +1,4 @@
-package encapsulation;
+package oops.encapsulation;
 
 public class Root {
     public static void main(String[] args) {
