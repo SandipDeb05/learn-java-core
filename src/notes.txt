@@ -17,7 +17,7 @@ super keyword: call their parent class constructor.
 Encapsulation: data hiding for security reasons, done using package & access modifiers.
 
 1. public: available everywhere in the project.
-2. protected: same class, subclass(children - different package but children).
+2. protected: same class, same package, subclass(children - different package but children).
 3. private: same class.
 4. default: same class, same package, subpackage, (but no sibling package)
 
